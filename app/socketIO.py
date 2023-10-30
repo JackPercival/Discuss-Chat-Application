@@ -7,7 +7,9 @@ socketio = SocketIO()
 if os.environ.get("FLASK_ENV") == "production":
     origins = [
         "http://discuss-aa.herokuapp.com",
-        "https://discuss-aa.herokuapp.com"
+        "https://discuss-aa.herokuapp.com",
+        "https://discuss-vuk7.onrender.com",
+        "http://discuss-vuk7.onrender.com"
     ]
 else:
     origins = "*"
