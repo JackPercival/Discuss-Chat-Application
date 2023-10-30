@@ -32,7 +32,7 @@ function LoginForm() {
   const demoLogin = async (e) => {
 
     const demoEmail = 'demo@aa.io';
-    const demoPassword = 'password'
+    const demoPassword = 'Password1!'
 
     setEmail(demoEmail)
     setPassword(demoPassword)
