@@ -1,5 +1,4 @@
 # DISCUSS
-https://discuss-vuk7.onrender.com/
 
 Discuss is a place to find and create your community and meet others that share your interests. 
 It was inspired by Discord and built using React.js and Python
